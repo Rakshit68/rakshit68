@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey, I’m Rakshit! 👨‍💻
 
-<!--
-**Rakshit68/rakshit68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my digital playground on GitHub! I’m a Computer Science geek building some rad software projects and exploring tech’s endless possibilities. 🚀
 
-Here are some ideas to get you started:
+## 🛠️ What I’m working on:
+### 🌱 **Carbon Emission Optimization Mode** 
+Reducing the planet’s carbon footprint, one laptop at a time—closing apps that overstay their welcome!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤖 **Mash: Personal Voice Assistant**
+Imagine Jarvis but more "shut down my PC" vibes—automating tasks with voice commands!
+
+## 🧑‍💻 Intern @ Dell Technologies
+- Building APIs, microservices, and making the dev world a better place.
+
+## 🔗 Let’s Connect!
+- **Email**: [rakshitmishra88@gmail.com](mailto:rakshitmishra88@gmail.com)
+- **LinkedIn**: [in/rakshitm2003](https://linkedin.com/in/rakshitm2003)
+
+---
+👾 Code, learn, repeat. Let’s create something awesome!
