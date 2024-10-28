@@ -9,7 +9,7 @@ Reducing the planet’s carbon footprint, one laptop at a time—closing apps th
 ### 🤖 **Mash: Personal Voice Assistant**
 Imagine Jarvis but more "shut down my PC" vibes—automating tasks with voice commands!
 
-## 🧑‍💻 Intern @ Dell Technologies
+## 🧑‍💻 EX-Intern @ Dell Technologies
 - Building APIs, microservices, and making the dev world a better place.
 
 ## 🔗 Let’s Connect!
